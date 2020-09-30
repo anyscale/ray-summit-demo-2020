@@ -1,0 +1,14 @@
+transformers==3.1.0
+ray[serve]
+starlette
+jupyterlab
+boto3==1.14.48
+sqlalchemy
+databases[postgresql]
+psycopg2-binary
+aiopg
+tqdm
+colorthief
+matplotlib
+locust
+scikit-learn
